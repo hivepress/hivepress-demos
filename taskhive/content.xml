@@ -4251,8 +4251,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%icon% %label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+<wp:meta_key><![CDATA[hp_icon]]></wp:meta_key>
+<wp:meta_value><![CDATA[file-alt]]></wp:meta_value>
+</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4568,8 +4572,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%icon% %label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+<wp:meta_key><![CDATA[hp_icon]]></wp:meta_key>
+<wp:meta_value><![CDATA[clock]]></wp:meta_value>
+</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_filterable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4668,8 +4676,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%icon% %label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+<wp:meta_key><![CDATA[hp_icon]]></wp:meta_key>
+<wp:meta_value><![CDATA[archive]]></wp:meta_value>
+</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_multiple]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4726,8 +4738,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%icon% %label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+<wp:meta_key><![CDATA[hp_icon]]></wp:meta_key>
+<wp:meta_value><![CDATA[sync-alt]]></wp:meta_value>
+</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
