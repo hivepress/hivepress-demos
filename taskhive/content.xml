@@ -4883,7 +4883,7 @@
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":58.3} -->
 <div class="wp-block-column" style="flex-basis:58.3%"><!-- wp:heading {"align":"left","level":1} -->
-<h1 class="has-text-align-left">Get the job <span style="color:#ffb717" class="has-inline-color">done</span><img class="wp-image-202" style="width: 32px;vertical-align:top;" src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-4.png" alt=""></h1>
+<h1 class="has-text-align-left">Get the job <span style="color:#ffb717" class="has-inline-color">done</span><img class="wp-image-202" style="width: 32px;vertical-align:top;" src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-4.png" alt="" loading="lazy"></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
@@ -4917,7 +4917,7 @@
 <div class="wp-block-group content-block"><div class="wp-block-group__inner-container"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":133,"width":146,"height":97,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-1.png" alt="" class="wp-image-133" width="146" height="97"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-1.png" alt="" class="wp-image-133" width="146" height="97" loading="lazy"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -4931,7 +4931,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":135,"width":146,"height":96,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-2.png" alt="" class="wp-image-135" width="146" height="96"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-2.png" alt="" class="wp-image-135" width="146" height="96" loading="lazy"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -4945,7 +4945,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":134,"width":146,"height":96,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-3.png" alt="" class="wp-image-134" width="146" height="96"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-3.png" alt="" class="wp-image-134" width="146" height="96" loading="lazy"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -5028,7 +5028,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"content-column"} -->
 <div class="wp-block-column content-column"><!-- wp:image {"align":"center","id":144,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-2.png" alt="" class="wp-image-144"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-2.png" alt="" class="wp-image-144" loading="lazy"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -5048,7 +5048,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":143,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-1.png" alt="" class="wp-image-143"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-1.png" alt="" class="wp-image-143" loading="lazy"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
