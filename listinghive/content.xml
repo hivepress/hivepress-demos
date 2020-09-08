@@ -3670,7 +3670,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
@@ -3760,7 +3760,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
@@ -3850,7 +3850,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value% ft²]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%label%: %value% ft²]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
@@ -3936,7 +3936,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_display_format]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%value%]]></wp:meta_value>
+		<wp:meta_value><![CDATA[%label%: %value%]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_edit_field_required]]></wp:meta_key>
