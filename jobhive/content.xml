@@ -6330,8 +6330,8 @@
 
 <!-- wp:hivepress/listing-categories {"columns":"4","number":"8"} /-->
 
-<!-- wp:cover {"url":"https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png","id":271,"dimRatio":0,"contentPosition":"center center","align":"full","className":"is-position-center-center content-section"} -->
-<div class="wp-block-cover alignfull is-position-center-center content-section" style="background-image:url(https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png)"><div class="wp-block-cover__inner-container"><!-- wp:heading {"className":"content-title"} -->
+<!-- wp:cover {"url":"https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png","id":271,"dimRatio":1,"customOverlayColor":"#f6f9fc","contentPosition":"center center","align":"full","className":"is-position-center-center content-section"} -->
+<div class="wp-block-cover alignfull has-background-dim-0 has-background-dim is-position-center-center content-section" style="background-image:url(https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png);background-color:#f6f9fc"><div class="wp-block-cover__inner-container"><!-- wp:heading {"className":"content-title"} -->
 <h2 class="content-title">Featured Jobs</h2>
 <!-- /wp:heading -->
 
@@ -6350,10 +6350,10 @@
 <p class="content-subtitle">Recent testimonials from our clients.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:hivepress/testimonials {"columns":"1","number":"4","slider":"1"} /-->
+<!-- wp:hivepress/testimonials {"columns":"2","number":"4","slider":"1"} /-->
 
-<!-- wp:cover {"url":"https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png","id":271,"dimRatio":0,"contentPosition":"center center","align":"full","className":"is-position-center-center content-section"} -->
-<div class="wp-block-cover alignfull is-position-center-center content-section" style="background-image:url(https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png)"><div class="wp-block-cover__inner-container"><!-- wp:heading {"className":"content-title"} -->
+<!-- wp:cover {"url":"https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png","id":271,"dimRatio":1,"customOverlayColor":"#f6f9fc","contentPosition":"center center","align":"full","className":"is-position-center-center content-section"} -->
+<div class="wp-block-cover alignfull has-background-dim-0 has-background-dim is-position-center-center content-section" style="background-image:url(https://jobhive.hivepress.io/wp-content/uploads/2020/11/image-20.png);background-color:#f6f9fc"><div class="wp-block-cover__inner-container"><!-- wp:heading {"className":"content-title"} -->
 <h2 class="content-title">Top Companies</h2>
 <!-- /wp:heading -->
 
@@ -7222,4 +7222,3 @@
 							</item>
 				</channel>
 </rss>
-	
