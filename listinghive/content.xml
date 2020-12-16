@@ -3510,75 +3510,20 @@
 							</wp:comment>
 					</item>
 					<item>
-		<title></title>
-		<link>https://demo.hivepress.io/2019/06/17/84/</link>
-		<pubDate>Mon, 17 Jun 2019 10:55:32 +0000</pubDate>
+		<title>Terms of Use</title>
+		<link>https://demo.hivepress.io/2020/10/terms-of-use/</link>
+		<pubDate>Sun, 18 Oct 2020 20:22:19 +0000</pubDate>
 		<dc:creator><![CDATA[brian]]></dc:creator>
-		<guid isPermaLink="false">https://demo.hivepress.io/?p=84</guid>
+		<guid isPermaLink="false">https://demo.hivepress.io/?p=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>84</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-17 10:55:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-17 10:55:32]]></wp:post_date_gmt>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-18 20:22:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-18 20:22:19]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[84]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[82]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demo.hivepress.io/2019/06/17/85/</link>
-		<pubDate>Mon, 17 Jun 2019 10:55:32 +0000</pubDate>
-		<dc:creator><![CDATA[brian]]></dc:creator>
-		<guid isPermaLink="false">https://demo.hivepress.io/?p=85</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>85</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-17 10:55:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-17 10:55:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[85]]></wp:post_name>
+		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -3588,7 +3533,7 @@
 										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -3596,11 +3541,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3616,7 +3561,62 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>https://demo.hivepress.io/2020/10/privacy-policy/</link>
+		<pubDate>Sun, 18 Oct 2020 20:22:19 +0000</pubDate>
+		<dc:creator><![CDATA[brian]]></dc:creator>
+		<guid isPermaLink="false">https://demo.hivepress.io/?p=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-18 20:22:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-18 20:22:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4146,10 +4146,6 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title>Listings</title>
@@ -4188,86 +4184,6 @@
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Terms of Use</title>
-		<link>https://demo.hivepress.io/terms-of-use/</link>
-		<pubDate>Mon, 17 Jun 2019 10:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[brian]]></dc:creator>
-		<guid isPermaLink="false">https://demo.hivepress.io/?page_id=80</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida. Nulla rhoncus eleifend ante, sed maximus libero dictum eu. Curabitur porttitor libero sed nunc lobortis, sed tincidunt arcu dictum. Aenean quis mauris justo. Donec augue nulla, porttitor a commodo ac, porta at orci. Duis aliquam ullamcorper massa, vel malesuada sapien porttitor sit amet. In posuere rhoncus blandit. Nunc et fermentum metus. Vivamus ac lacus tellus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque quis nibh dolor. Sed feugiat magna sed purus dictum sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla gravida, lectus ut rhoncus viverra, leo orci suscipit lectus, sit amet egestas nisi enim nec leo. Vivamus lobortis, neque id blandit semper, nisi risus maximus velit, ac lacinia justo velit at felis. Donec hendrerit sagittis euismod. Nullam cursus in ante id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu tortor aliquet, tincidunt enim vel, mollis tortor. Donec nec dapibus est. Proin mollis egestas molestie. Nam dapibus placerat ante, quis iaculis justo pharetra vitae.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit. Nulla et lectus sed velit auctor mollis. Vestibulum eleifend lacus eros, vel posuere elit malesuada nec.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Donec faucibus metus massa, vitae faucibus lacus maximus nec. Etiam laoreet pellentesque turpis, vitae fermentum lorem efficitur at. Pellentesque fringilla elit quis porttitor euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum lacinia vestibulum ipsum, nec scelerisque risus elementum et. Integer aliquet, leo ut ullamcorper porta, nisi ipsum laoreet libero, nec feugiat mi massa sit amet eros. Nulla rhoncus convallis augue eget ullamcorper. Mauris suscipit elementum metus, eget sagittis ipsum sagittis sit amet. Fusce id sapien interdum, feugiat tellus eu, maximus justo. Nullam luctus condimentum felis, sit amet posuere turpis tempus id. Nulla a augue mi. Sed a tincidunt ex. Sed congue leo erat, nec gravida leo elementum sit amet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Suspendisse eu sapien gravida, rhoncus sem sed, luctus nunc. Suspendisse faucibus, felis ac ullamcorper hendrerit, turpis orci scelerisque mi, eu tempus est libero id massa. Donec ipsum nisi, convallis id diam feugiat, ullamcorper ornare ipsum. Vivamus sodales interdum risus dapibus bibendum. Mauris aliquam gravida arcu, nec egestas nibh efficitur sit amet. Quisque sit amet lorem erat. Vivamus dapibus lacus vitae placerat aliquam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In commodo vel ex et vulputate. Proin accumsan gravida interdum. Nunc luctus nisi vitae risus laoreet, eu dignissim nibh interdum. Donec sit amet vehicula libero.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-17 10:53:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-17 10:53:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>https://demo.hivepress.io/privacy-policy/</link>
-		<pubDate>Mon, 17 Jun 2019 10:54:33 +0000</pubDate>
-		<dc:creator><![CDATA[brian]]></dc:creator>
-		<guid isPermaLink="false">https://demo.hivepress.io/?page_id=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida. Nulla rhoncus eleifend ante, sed maximus libero dictum eu. Curabitur porttitor libero sed nunc lobortis, sed tincidunt arcu dictum. Aenean quis mauris justo. Donec augue nulla, porttitor a commodo ac, porta at orci. Duis aliquam ullamcorper massa, vel malesuada sapien porttitor sit amet. In posuere rhoncus blandit. Nunc et fermentum metus. Vivamus ac lacus tellus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque quis nibh dolor. Sed feugiat magna sed purus dictum sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla gravida, lectus ut rhoncus viverra, leo orci suscipit lectus, sit amet egestas nisi enim nec leo. Vivamus lobortis, neque id blandit semper, nisi risus maximus velit, ac lacinia justo velit at felis. Donec hendrerit sagittis euismod. Nullam cursus in ante id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu tortor aliquet, tincidunt enim vel, mollis tortor. Donec nec dapibus est. Proin mollis egestas molestie. Nam dapibus placerat ante, quis iaculis justo pharetra vitae.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit. Nulla et lectus sed velit auctor mollis. Vestibulum eleifend lacus eros, vel posuere elit malesuada nec.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Donec faucibus metus massa, vitae faucibus lacus maximus nec. Etiam laoreet pellentesque turpis, vitae fermentum lorem efficitur at. Pellentesque fringilla elit quis porttitor euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum lacinia vestibulum ipsum, nec scelerisque risus elementum et. Integer aliquet, leo ut ullamcorper porta, nisi ipsum laoreet libero, nec feugiat mi massa sit amet eros. Nulla rhoncus convallis augue eget ullamcorper. Mauris suscipit elementum metus, eget sagittis ipsum sagittis sit amet. Fusce id sapien interdum, feugiat tellus eu, maximus justo. Nullam luctus condimentum felis, sit amet posuere turpis tempus id. Nulla a augue mi. Sed a tincidunt ex. Sed congue leo erat, nec gravida leo elementum sit amet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Suspendisse eu sapien gravida, rhoncus sem sed, luctus nunc. Suspendisse faucibus, felis ac ullamcorper hendrerit, turpis orci scelerisque mi, eu tempus est libero id massa. Donec ipsum nisi, convallis id diam feugiat, ullamcorper ornare ipsum. Vivamus sodales interdum risus dapibus bibendum. Mauris aliquam gravida arcu, nec egestas nibh efficitur sit amet. Quisque sit amet lorem erat. Vivamus dapibus lacus vitae placerat aliquam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In commodo vel ex et vulputate. Proin accumsan gravida interdum. Nunc luctus nisi vitae risus laoreet, eu dignissim nibh interdum. Donec sit amet vehicula libero.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-17 10:54:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-17 10:54:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
