@@ -5003,10 +5003,6 @@
 <!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:spacer {"height":32} -->
-<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
 <!-- wp:heading {"align":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Top Freelancers</h2>
 <!-- /wp:heading -->
