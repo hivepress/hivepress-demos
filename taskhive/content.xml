@@ -4881,8 +4881,8 @@
 		<guid isPermaLink="false">https://taskhive.hivepress.io/?page_id=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":58.3} -->
-<div class="wp-block-column" style="flex-basis:58.3%"><!-- wp:heading {"align":"left","level":1} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"58.3%"} -->
+<div class="wp-block-column" style="flex-basis:58.3%"><!-- wp:heading {"textAlign":"left","level":1} -->
 <h1 class="has-text-align-left">Get the job <span style="color:#ffb717" class="has-inline-color">done</span><img class="wp-image-202" style="width: 32px;vertical-align:top;" src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-4.png" alt="" loading="lazy"></h1>
 <!-- /wp:heading -->
 
@@ -4903,7 +4903,7 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":41.7} -->
+<!-- wp:column {"width":"41.7%"} -->
 <div class="wp-block-column" style="flex-basis:41.7%"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -4917,10 +4917,10 @@
 <div class="wp-block-group content-block"><div class="wp-block-group__inner-container"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":133,"width":146,"height":97,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-1.png" alt="" class="wp-image-133" width="146" height="97" loading="lazy"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-1.png" alt="" class="wp-image-133" width="146" height="97"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
 <h3 class="has-text-align-center">Find a Freelancer</h3>
 <!-- /wp:heading -->
 
@@ -4931,10 +4931,10 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":135,"width":146,"height":96,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-2.png" alt="" class="wp-image-135" width="146" height="96" loading="lazy"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-2.png" alt="" class="wp-image-135" width="146" height="96"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
 <h3 class="has-text-align-center">Check the Reviews</h3>
 <!-- /wp:heading -->
 
@@ -4945,10 +4945,10 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":134,"width":146,"height":96,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-3.png" alt="" class="wp-image-134" width="146" height="96" loading="lazy"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/icon-3.png" alt="" class="wp-image-134" width="146" height="96"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
 <h3 class="has-text-align-center">Pay with Confidence</h3>
 <!-- /wp:heading -->
 
@@ -4963,7 +4963,7 @@
 <div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center","className":"content-title"} -->
+<!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Top Categories</h2>
 <!-- /wp:heading -->
 
@@ -4973,7 +4973,7 @@
 
 <!-- wp:hivepress/listing-categories {"columns":"4","number":"8"} /-->
 
-<!-- wp:heading {"align":"center","className":"content-title"} -->
+<!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Featured Services</h2>
 <!-- /wp:heading -->
 
@@ -4984,7 +4984,7 @@
 <!-- wp:hivepress/listings {"number":"9","slider":"1"} /-->
 
 <!-- wp:cover {"url":"https://taskhive.hivepress.io/wp-content/uploads/2020/07/background-3.png","id":211,"dimRatio":0,"align":"full","className":"content-section"} -->
-<div class="wp-block-cover alignfull content-section" style="background-image:url(https://taskhive.hivepress.io/wp-content/uploads/2020/07/background-3.png)"><div class="wp-block-cover__inner-container"><!-- wp:heading {"align":"center","className":"content-title"} -->
+<div class="wp-block-cover alignfull content-section" style="background-image:url(https://taskhive.hivepress.io/wp-content/uploads/2020/07/background-3.png)"><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Customer Reviews</h2>
 <!-- /wp:heading -->
 
@@ -5003,7 +5003,7 @@
 <!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:heading {"align":"center","className":"content-title"} -->
+<!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Top Freelancers</h2>
 <!-- /wp:heading -->
 
@@ -5013,7 +5013,7 @@
 
 <!-- wp:hivepress/vendors {"number":"6","slider":"1"} /-->
 
-<!-- wp:heading {"align":"center","className":"content-title"} -->
+<!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Get Started</h2>
 <!-- /wp:heading -->
 
@@ -5024,10 +5024,10 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"content-column"} -->
 <div class="wp-block-column content-column"><!-- wp:image {"align":"center","id":144,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-2.png" alt="" class="wp-image-144" loading="lazy"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-2.png" alt="" class="wp-image-144"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
 <h3 class="has-text-align-center">I need a task done</h3>
 <!-- /wp:heading -->
 
@@ -5036,7 +5036,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"customBackgroundColor":"#ffc107","customTextColor":"#ffffff"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"text":"#ffffff","background":"#ffc107"}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="https://taskhive.hivepress.io/services/" style="background-color:#ffc107;color:#ffffff">View Services</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -5044,10 +5044,10 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":143,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-1.png" alt="" class="wp-image-143" loading="lazy"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://taskhive.hivepress.io/wp-content/uploads/2020/07/image-1.png" alt="" class="wp-image-143"/></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3} -->
 <h3 class="has-text-align-center">I am a freelancer</h3>
 <!-- /wp:heading -->
 
@@ -5056,7 +5056,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"customBackgroundColor":"#3d82f0","customTextColor":"#ffffff"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"text":"#ffffff","background":"#3d82f0"}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="https://taskhive.hivepress.io/submit-listing/" style="background-color:#3d82f0;color:#ffffff">List a Service</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
