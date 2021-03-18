@@ -13973,12 +13973,8 @@
 <!-- /wp:more -->
 
 <!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:hivepress/listing-search-form /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"></div>
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:hivepress/listing-search-form /--></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -14088,8 +14084,8 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":261,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<!-- wp:column {"className":"content-column"} -->
+<div class="wp-block-column content-column"><!-- wp:image {"align":"center","id":261,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
 <div class="wp-block-image is-style-rounded"><figure class="aligncenter size-full"><img src="https://experthive.hivepress.io/wp-content/uploads/2021/03/image-21.jpg" alt="" class="wp-image-261"/></figure></div>
 <!-- /wp:image -->
 
