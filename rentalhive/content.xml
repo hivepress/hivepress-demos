@@ -7103,7 +7103,7 @@
 
 <!-- wp:buttons {"contentJustification":"center"} -->
 <div class="wp-block-buttons is-content-justification-center"><!-- wp:button {"className":"is-style-primary"} -->
-<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="https://rentalhive.hivepress.io/properties/">Find a Property</a></div>
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="/properties">Find a Property</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -7125,7 +7125,7 @@
 
 <!-- wp:buttons {"contentJustification":"center"} -->
 <div class="wp-block-buttons is-content-justification-center"><!-- wp:button {"className":"is-style-secondary"} -->
-<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link" href="https://rentalhive.hivepress.io/submit-listing/">List a Property</a></div>
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link" href="/submit-listing">List a Property</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>

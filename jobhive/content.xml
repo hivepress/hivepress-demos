@@ -6387,11 +6387,11 @@
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":0,"textColor":"white","className":"has-large-size is-style-primary"} -->
-<div class="wp-block-button has-large-size is-style-primary"><a class="wp-block-button__link has-white-color has-text-color no-border-radius" href="https://jobhive.hivepress.io/jobs/">Browse Jobs</a></div>
+<div class="wp-block-button has-large-size is-style-primary"><a class="wp-block-button__link has-white-color has-text-color no-border-radius" href="/jobs">Browse Jobs</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":0,"textColor":"white","className":"is-style-outline has-large-size"} -->
-<div class="wp-block-button is-style-outline has-large-size"><a class="wp-block-button__link has-white-color has-text-color no-border-radius" href="https://jobhive.hivepress.io/submit-listing/">Post a Job</a></div>
+<div class="wp-block-button is-style-outline has-large-size"><a class="wp-block-button__link has-white-color has-text-color no-border-radius" href="/submit-listing">Post a Job</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->

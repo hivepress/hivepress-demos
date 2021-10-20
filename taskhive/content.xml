@@ -5037,7 +5037,7 @@
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"text":"#ffffff","background":"#ffc107"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="https://taskhive.hivepress.io/services/" style="background-color:#ffc107;color:#ffffff">View Services</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="/services" style="background-color:#ffc107;color:#ffffff">View Services</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -5057,7 +5057,7 @@
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"text":"#ffffff","background":"#3d82f0"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="https://taskhive.hivepress.io/submit-listing/" style="background-color:#3d82f0;color:#ffffff">List a Service</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="/submit-listing" style="background-color:#3d82f0;color:#ffffff">List a Service</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
