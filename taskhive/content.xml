@@ -613,7 +613,7 @@
 		<wp:term_taxonomy><![CDATA[hp_listing_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tech-programming]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Tech &amp; Programming]]></wp:term_name>
+		<wp:term_name><![CDATA[Programming]]></wp:term_name>
 		<wp:term_description><![CDATA[Vivamus aliquam felis suscipit fringilla, blandit dolor quis.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[hp_sort_order]]></wp:meta_key>
@@ -759,7 +759,7 @@
 		<wp:term_taxonomy><![CDATA[hp_listing_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[writing-translation]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Writing &amp; Translation]]></wp:term_name>
+		<wp:term_name><![CDATA[Translation]]></wp:term_name>
 		<wp:term_description><![CDATA[Donec sit amet sapien id risus interdum, lectus sed amet.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[hp_sort_order]]></wp:meta_key>
@@ -2772,7 +2772,7 @@
 										<category domain="hp_listing_tags" nicename="coding"><![CDATA[coding]]></category>
 		<category domain="hp_listing_license_type" nicename="extended"><![CDATA[Extended]]></category>
 		<category domain="hp_listing_service_includes" nicename="multiple-revisions"><![CDATA[Multiple Revisions]]></category>
-		<category domain="hp_listing_category" nicename="tech-programming"><![CDATA[Tech &amp; Programming]]></category>
+		<category domain="hp_listing_category" nicename="tech-programming"><![CDATA[Programming]]></category>
 		<category domain="hp_listing_delivery_time" nicename="up-to-7-days"><![CDATA[Up to 7 days]]></category>
 		<category domain="hp_listing_tags" nicename="updates"><![CDATA[updates]]></category>
 		<category domain="hp_listing_tags" nicename="website"><![CDATA[website]]></category>
@@ -2871,7 +2871,7 @@
 		<category domain="hp_listing_tags" nicename="photoshop"><![CDATA[photoshop]]></category>
 		<category domain="hp_listing_license_type" nicename="regular"><![CDATA[Regular]]></category>
 		<category domain="hp_listing_tags" nicename="responsive"><![CDATA[responsive]]></category>
-		<category domain="hp_listing_category" nicename="tech-programming"><![CDATA[Tech &amp; Programming]]></category>
+		<category domain="hp_listing_category" nicename="tech-programming"><![CDATA[Programming]]></category>
 		<category domain="hp_listing_delivery_time" nicename="up-to-24-hours"><![CDATA[Up to 24 hours]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3260,7 +3260,7 @@
 		<category domain="hp_listing_tags" nicename="newsletter"><![CDATA[newsletter]]></category>
 		<category domain="hp_listing_delivery_time" nicename="up-to-7-days"><![CDATA[Up to 7 days]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
-		<category domain="hp_listing_category" nicename="writing-translation"><![CDATA[Writing &amp; Translation]]></category>
+		<category domain="hp_listing_category" nicename="writing-translation"><![CDATA[Translation]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3548,7 +3548,7 @@
 		<category domain="hp_listing_service_includes" nicename="ongoing-support"><![CDATA[Ongoing Support]]></category>
 		<category domain="hp_listing_delivery_time" nicename="up-to-3-days"><![CDATA[Up to 3 days]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
-		<category domain="hp_listing_category" nicename="writing-translation"><![CDATA[Writing &amp; Translation]]></category>
+		<category domain="hp_listing_category" nicename="writing-translation"><![CDATA[Translation]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -5510,7 +5510,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Tech &amp; Programming</title>
+		<title>Programming</title>
 		<link>https://taskhive.hivepress.io/2020/07/02/tech-programming/</link>
 		<pubDate>Thu, 02 Jul 2020 19:12:51 +0000</pubDate>
 		<dc:creator><![CDATA[brian]]></dc:creator>
