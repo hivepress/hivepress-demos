@@ -7052,7 +7052,7 @@
 <p class="has-text-align-center content-subtitle">Check our popular top-rated properties.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:hivepress/listings {"number":"6","slider":"1"} /-->
+<!-- wp:hivepress/listings {"number":"6","slider":"1","columns":"3"} /-->
 
 <!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">Meet Our Hosts</h2>
@@ -7072,7 +7072,7 @@
 <p class="has-text-align-center content-subtitle">Honest feedback from our guests and hosts.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:hivepress/testimonials {"columns":"3","number":"3","slider":"1"} /-->
+<!-- wp:hivepress/testimonials {"columns":"1","number":"3","slider":"1"} /-->
 
 <!-- wp:heading {"textAlign":"center","className":"content-title"} -->
 <h2 class="has-text-align-center content-title">From the Blog</h2>
