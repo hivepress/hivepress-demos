@@ -3924,13 +3924,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","className":"title title\u002d\u002dcenter"} -->
-<h2 class="has-text-align-center title title--center">Top Categories</h2>
+<h2 class="has-text-align-center content-title">Top Categories</h2>
 <!-- /wp:heading -->
 
 <!-- wp:hivepress/listing-categories /-->
 
 <!-- wp:heading {"textAlign":"center","className":"title title\u002d\u002dcenter"} -->
-<h2 class="has-text-align-center title title--center">Recent Listings</h2>
+<h2 class="has-text-align-center content-title">Recent Listings</h2>
 <!-- /wp:heading -->
 
 <!-- wp:hivepress/listings {"number":"6"} /-->]]></content:encoded>
@@ -5318,4 +5318,3 @@
 							</item>
 				</channel>
 </rss>
-	
