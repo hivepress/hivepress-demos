@@ -6991,7 +6991,7 @@
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[Brian]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[contact@hivepress.io]]></wp:comment_author_email>
-			<wp:comment_author_url>https://jobhive.hivepress.io</wp:comment_author_url>
+			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-10-24 21:59:02]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-10-24 21:59:02]]></wp:comment_date_gmt>

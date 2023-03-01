@@ -14522,7 +14522,7 @@
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[Brian Peterson]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[brian@example.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://experthive.hivepress.io</wp:comment_author_url>
+			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-02-28 13:43:46]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-02-28 13:43:46]]></wp:comment_date_gmt>
