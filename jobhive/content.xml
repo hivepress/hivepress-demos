@@ -6386,7 +6386,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":0,"textColor":"white","className":"has-large-size is-style-primary"} -->
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button {"borderRadius":0,"textColor":"white","className":"has-large-size is-style-primary"} -->
 <div class="wp-block-button has-large-size is-style-primary"><a class="wp-block-button__link has-white-color has-text-color no-border-radius" href="/jobs">Browse Jobs</a></div>
 <!-- /wp:button -->
 
@@ -6404,7 +6404,7 @@
 <p class="content-subtitle">Check the available job packages.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:hivepress/listing-packages /-->]]></content:encoded>
+<!-- wp:hivepress/listing-packages {"columns":"3"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2020-10-18 20:19:42]]></wp:post_date>
