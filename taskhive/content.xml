@@ -7722,7 +7722,7 @@
 			<wp:comment_author><![CDATA[Thomas Hinton]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[thomas@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[178.94.87.151]]></wp:comment_author_IP>
+			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-07-02 20:12:41]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-07-02 20:12:41]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Mauris convallis risus eu justo ullamcorper varius in hac, habitasse platea sed dictumst bibendum aliquam diam sed scelerisque in tincidunt nisl non ipsum eu venenatis.]]></wp:comment_content>
@@ -7736,7 +7736,7 @@
 			<wp:comment_author><![CDATA[Sandra Lockhart]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[sandra@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[178.94.87.151]]></wp:comment_author_IP>
+			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-07-02 20:39:18]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-07-02 20:39:18]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[In commodo luctus metus, vel auctor metus luctus in, class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos aliquam dapibus lobortis ligula.]]></wp:comment_content>
@@ -7750,7 +7750,7 @@
 			<wp:comment_author><![CDATA[Michelle Foster]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[michelle@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[178.94.87.151]]></wp:comment_author_IP>
+			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-07-02 20:59:46]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-07-02 20:59:46]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Aliquam dignissim dolor erat nunc condimentum pulvinar nisl, non venenatis leo fringilla at, nam a rhoncus orci mauris imperdiet tempus diam ut venenatis finibus sed gravida.]]></wp:comment_content>
