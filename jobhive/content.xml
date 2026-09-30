@@ -1201,25 +1201,9 @@
 		<category domain="hp_listing_category" nicename="mobile-apps"><![CDATA[Mobile &amp; Apps]]></category>
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1267,17 +1251,9 @@
 		<category domain="hp_listing_category" nicename="mobile-apps"><![CDATA[Mobile &amp; Apps]]></category>
 		<category domain="hp_listing_experience" nicename="senior"><![CDATA[Senior]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1325,21 +1301,9 @@
 		<category domain="hp_listing_tags" nicename="translation"><![CDATA[translation]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
 		<category domain="hp_listing_category" nicename="writing-editing"><![CDATA[Writing &amp; Editing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4800]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1633,37 +1597,9 @@
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
 		<category domain="hp_listing_category" nicename="web-development"><![CDATA[Web Development]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[test]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-09]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1710,17 +1646,9 @@
 		<category domain="hp_listing_tags" nicename="marketing"><![CDATA[marketing]]></category>
 		<category domain="hp_listing_type" nicename="part-time"><![CDATA[Part-time]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_featured]]></wp:meta_key>
@@ -1772,25 +1700,9 @@
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
 		<category domain="hp_listing_category" nicename="web-development"><![CDATA[Web Development]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1838,21 +1750,9 @@
 		<category domain="hp_listing_experience" nicename="middle"><![CDATA[Middle]]></category>
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_category" nicename="tech-support"><![CDATA[Tech Support]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1899,17 +1799,9 @@
 		<category domain="hp_listing_tags" nicename="marketing"><![CDATA[marketing]]></category>
 		<category domain="hp_listing_experience" nicename="middle"><![CDATA[Middle]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -1957,25 +1849,9 @@
 		<category domain="hp_listing_tags" nicename="translation"><![CDATA[translation]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
 		<category domain="hp_listing_category" nicename="writing-editing"><![CDATA[Writing &amp; Editing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2023,17 +1899,9 @@
 		<category domain="hp_listing_experience" nicename="middle"><![CDATA[Middle]]></category>
 		<category domain="hp_listing_tags" nicename="production"><![CDATA[production]]></category>
 		<category domain="hp_listing_category" nicename="video-animation"><![CDATA[Video &amp; Animation]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2081,21 +1949,9 @@
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
 		<category domain="hp_listing_category" nicename="web-development"><![CDATA[Web Development]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9200]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2143,17 +1999,9 @@
 		<category domain="hp_listing_category" nicename="mobile-apps"><![CDATA[Mobile &amp; Apps]]></category>
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2200,17 +2048,9 @@
 		<category domain="hp_listing_experience" nicename="junior"><![CDATA[Junior]]></category>
 		<category domain="hp_listing_tags" nicename="marketing"><![CDATA[marketing]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2262,25 +2102,9 @@
 		<category domain="hp_listing_tags" nicename="marketing"><![CDATA[marketing]]></category>
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_category" nicename="tech-support"><![CDATA[Tech Support]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3300]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2328,21 +2152,9 @@
 		<category domain="hp_listing_category" nicename="music-audio"><![CDATA[Music &amp; Audio]]></category>
 		<category domain="hp_listing_type" nicename="part-time"><![CDATA[Part-time]]></category>
 		<category domain="hp_listing_tags" nicename="recording"><![CDATA[recording]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[6000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-07]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2390,21 +2202,9 @@
 		<category domain="hp_listing_tags" nicename="interface"><![CDATA[interface]]></category>
 		<category domain="hp_listing_experience" nicename="middle"><![CDATA[Middle]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-11]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2452,21 +2252,9 @@
 		<category domain="hp_listing_tags" nicename="translation"><![CDATA[translation]]></category>
 		<category domain="hp_listing_tags" nicename="writing"><![CDATA[writing]]></category>
 		<category domain="hp_listing_category" nicename="writing-editing"><![CDATA[Writing &amp; Editing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2514,25 +2302,9 @@
 		<category domain="hp_listing_tags" nicename="production"><![CDATA[production]]></category>
 		<category domain="hp_listing_experience" nicename="senior"><![CDATA[Senior]]></category>
 		<category domain="hp_listing_category" nicename="video-animation"><![CDATA[Video &amp; Animation]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7300]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2580,25 +2352,9 @@
 		<category domain="hp_listing_experience" nicename="junior"><![CDATA[Junior]]></category>
 		<category domain="hp_listing_type" nicename="part-time"><![CDATA[Part-time]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[part-time-interior-designer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[part-time-user-interface-designer]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2646,21 +2402,9 @@
 		<category domain="hp_listing_tags" nicename="mixing"><![CDATA[mixing]]></category>
 		<category domain="hp_listing_category" nicename="music-audio"><![CDATA[Music &amp; Audio]]></category>
 		<category domain="hp_listing_tags" nicename="recording"><![CDATA[recording]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7800]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2708,21 +2452,9 @@
 		<category domain="hp_listing_experience" nicename="middle"><![CDATA[Middle]]></category>
 		<category domain="hp_listing_tags" nicename="production"><![CDATA[production]]></category>
 		<category domain="hp_listing_category" nicename="video-animation"><![CDATA[Video &amp; Animation]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2770,29 +2502,9 @@
 		<category domain="hp_listing_tags" nicename="marketing"><![CDATA[marketing]]></category>
 		<category domain="hp_listing_tags" nicename="support"><![CDATA[support]]></category>
 		<category domain="hp_listing_category" nicename="tech-support"><![CDATA[Tech Support]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2840,21 +2552,9 @@
 		<category domain="hp_listing_tags" nicename="interface"><![CDATA[interface]]></category>
 		<category domain="hp_listing_experience" nicename="senior"><![CDATA[Senior]]></category>
 		<category domain="hp_listing_tags" nicename="testing"><![CDATA[testing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_salary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_location]]></wp:meta_key>
@@ -2902,10 +2602,6 @@
 		<category domain="hp_listing_category" nicename="music-audio"><![CDATA[Music &amp; Audio]]></category>
 		<category domain="hp_listing_tags" nicename="recording"><![CDATA[recording]]></category>
 		<category domain="hp_listing_experience" nicename="senior"><![CDATA[Senior]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_814ba2816ebaeaffd9019d99aa7c5bd1]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="RAINY DAY. NIKON D5200 sample video" width="749" height="421" src="https://www.youtube.com/embed/E5ln4uR4TwQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
@@ -2960,21 +2656,9 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="101-999"><![CDATA[101 - 999]]></category>
 		<category domain="hp_vendor_industry" nicename="healthcare"><![CDATA[Healthcare]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[176]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-24]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-09-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
@@ -3006,17 +2690,9 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="1-100"><![CDATA[1 - 100]]></category>
 		<category domain="hp_vendor_industry" nicename="fashion"><![CDATA[Fashion]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[178]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-24]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
@@ -3052,17 +2728,9 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="1000"><![CDATA[1,000+]]></category>
 		<category domain="hp_vendor_industry" nicename="logistics"><![CDATA[Logistics]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[royal-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
@@ -3094,17 +2762,9 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="101-999"><![CDATA[101 - 999]]></category>
 		<category domain="hp_vendor_industry" nicename="finance"><![CDATA[Finance]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-25]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
@@ -3134,10 +2794,6 @@
 		<wp:post_type><![CDATA[hp_listing_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3198,10 +2854,6 @@
 		<wp:post_type><![CDATA[hp_listing_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3266,10 +2918,6 @@
 		<wp:post_type><![CDATA[hp_listing_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3322,10 +2970,6 @@
 		<wp:post_type><![CDATA[hp_vendor_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3384,21 +3028,9 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="1-100"><![CDATA[1 - 100]]></category>
 		<category domain="hp_vendor_industry" nicename="software"><![CDATA[Software]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[196]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[code-qube]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
@@ -3434,14 +3066,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="hp_vendor_employees" nicename="1000"><![CDATA[1,000+]]></category>
 		<category domain="hp_vendor_industry" nicename="media"><![CDATA[Media]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-26]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_founded]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1995]]></wp:meta_value>
@@ -3474,10 +3098,6 @@
 		<wp:post_type><![CDATA[hp_vendor_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3534,21 +3154,9 @@
 		<wp:post_type><![CDATA[hp_testimonial]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[243]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[thomas-hinton]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-11-01]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_position]]></wp:meta_key>
@@ -3578,17 +3186,9 @@
 		<wp:post_type><![CDATA[hp_testimonial]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[242]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-11-04]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_position]]></wp:meta_key>
@@ -3618,17 +3218,9 @@
 		<wp:post_type><![CDATA[hp_testimonial]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[244]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[test]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_position]]></wp:meta_key>
@@ -3658,21 +3250,9 @@
 		<wp:post_type><![CDATA[hp_testimonial]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[246]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-11-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-11-05]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_position]]></wp:meta_key>
@@ -3709,10 +3289,6 @@
 		<wp:post_type><![CDATA[hp_membership_plan]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_listing_submit_limit]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5]]></wp:meta_value>
@@ -3752,10 +3328,6 @@
 		<wp:post_type><![CDATA[hp_membership_plan]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_primary]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3799,10 +3371,6 @@
 		<wp:post_type><![CDATA[hp_membership_plan]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_listing_submit_limit]]></wp:meta_key>
 		<wp:meta_value><![CDATA[15]]></wp:meta_value>
@@ -4812,10 +4380,6 @@
 		<wp:post_type><![CDATA[hp_vendor_attribute]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hp_editable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -5229,21 +4793,9 @@
 		<category domain="category" nicename="productivity"><![CDATA[Productivity]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
 		<category domain="post_tag" nicename="workstation"><![CDATA[workstation]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-08-25]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[166]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-08-23]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5283,21 +4835,9 @@
 		<category domain="category" nicename="employment"><![CDATA[Employment]]></category>
 		<category domain="post_tag" nicename="full-time"><![CDATA[full-time]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-05-21]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-06-21]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5341,10 +4881,6 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[163]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Prepare yourself for a remote job interview]]></title>
@@ -5383,17 +4919,9 @@
 		<category domain="category" nicename="employment"><![CDATA[Employment]]></category>
 		<category domain="post_tag" nicename="interview"><![CDATA[interview]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-15]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[164]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-09-15]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -5475,25 +5003,9 @@
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[162]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-07-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-07-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-07-26]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5533,21 +5045,9 @@
 		<category domain="category" nicename="productivity"><![CDATA[Productivity]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
 		<category domain="post_tag" nicename="workstation"><![CDATA[workstation]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-10-21]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-08-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-06-21]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
